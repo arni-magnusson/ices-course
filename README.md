@@ -12,54 +12,54 @@
 
 **Day 1**
 
-Morning
+*Morning*
 - Overview of commonly used fisheries software on GitHub
 - A closer look at R packages
 - Creating a simple R package
 
-Afternoon
+*Afternoon*
 - Code editors
 - Git commands
 - GitHub features
 
 **Day 2**
 
-Morning
+*Morning*
 - Best practices in software maintenance, optimize maintainability
 - Shell commands and shell scripts, environment variables
 - Linux virtual machines, building R in Linux
 
-Afternoon
+*Afternoon*
 - Reproducible scripts, relative paths, optimize readability
 - Scientific workflows, TAF
 - Makefile pipelines, R equivalents
 
 **Day 3**
 
-Morning
+*Morning*
 - Reading assessment data and results, SAM, FLR, SS3
 - Best practices writing R scripts, functions, and documentation
 
-Afternoon
+*Afternoon*
 - Table layout formats, image file formats
 - Text encoding, line endings, regular expressions
 - Debugging
 
 **Day 4**
 
-Morning
+*Morning*
 - TMB models, building a package on top of TMB
 - Tests, CI, CRAN release
 
-Afternoon
+*Afternoon*
 - Contributing to software projects
 - Markdown, R Markdown, LaTeX, HTML, knitr, Quarto, Shiny
 
 **Day 5**
 
-Morning
+*Morning*
 - Brief introduction to Python
 - Selected topics for in-depth coverage
 
-Afternoon
+*Afternoon*
 - Case studies of special interest to the group
