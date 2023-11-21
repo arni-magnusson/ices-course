@@ -1,12 +1,11 @@
+# Open Science and Software Development
+
 ## Outline
 
-- Introduction to version control and GitHub
-- Code management and best practices
-- Making your code reproducible
-- Dynamic documents and Markdown
-- Creating R packages and continuous testing
-- More advanced aspects of GitHub
-- Publishing your clean, reproducible code
+- Software for scientific analyses, including R packages
+- The art of software design, development, and maintenance
+- GitHub and other development tools, collaboration
+- Scientific workflows, open data, methods, and results
 
 ## Schedule
 
@@ -18,14 +17,14 @@
 - Creating a simple R package
 
 *Afternoon*
-- Code editors
+- Working environment, operating systems, editors, development tools
 - Git commands
 - GitHub features
 
 **Day 2**
 
 *Morning*
-- Best practices in software maintenance, optimize maintainability
+- Software design and maintenance, optimize maintainability
 - Shell commands and shell scripts, environment variables
 - Linux virtual machines, building R in Linux
 
@@ -37,8 +36,9 @@
 **Day 3**
 
 *Morning*
+- Open data, web services, repositories
 - Reading assessment data and results, SAM, FLR, SS3
-- Best practices writing R scripts, functions, and documentation
+- Writing R scripts, functions, and documentation
 
 *Afternoon*
 - Table layout formats, image file formats
@@ -49,16 +49,16 @@
 
 *Morning*
 - TMB models, building a package on top of TMB
-- Tests, CI, CRAN release
+- Tests, continuous integration, CRAN release
 
 *Afternoon*
 - Contributing to software projects
-- Markdown, R Markdown, LaTeX, HTML, knitr, Quarto, Shiny
+- Vignettes, R Markdown, LaTeX, HTML, knitr, Quarto, Shiny
 
 **Day 5**
 
 *Morning*
-- Brief introduction to Python
+- Brief introduction to databases, Python, and Power BI
 - Selected topics for in-depth coverage
 
 *Afternoon*
