@@ -1,15 +1,17 @@
 # Open Science and Software Development
 
-## Outline
+## ICES Training Course
+
+### Possible dates
+
+> 19-23 Feb 2024, ICES HQ
+
+### Outline
 
 - Software for scientific analyses, including R packages
 - The art of software design, development, and maintenance
 - GitHub and other development tools, collaboration
 - Scientific workflows, open data, methods, and results
-
-### Possible dates
-
-- 19-23 Feb 2024, ICES HQ
 
 ## Schedule
 
