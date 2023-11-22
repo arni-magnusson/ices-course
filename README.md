@@ -7,6 +7,10 @@
 - GitHub and other development tools, collaboration
 - Scientific workflows, open data, methods, and results
 
+### Possible dates
+
+- 19-23 Feb 2024, ICES HQ
+
 ## Schedule
 
 **Day 1**
