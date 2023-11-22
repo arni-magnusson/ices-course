@@ -1,6 +1,6 @@
 # Open Science and Software Development
 
-## ICES Training Course
+## ICES training course (proposal)
 
 ### Possible dates
 
