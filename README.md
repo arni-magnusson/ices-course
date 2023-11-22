@@ -49,7 +49,8 @@
 
 *Morning*
 - TMB models, building a package on top of TMB
-- Tests, continuous integration, CRAN release
+- Tests, continuous integration, CRAN
+- Releasing a new version, good practices
 
 *Afternoon*
 - Contributing to software projects
